@@ -18,7 +18,7 @@
 | 구분 | 링크 | 비고 |
 | :--- | :--- | :--- |
 | Google AI Studio | <https://aistudio.google.com/api-keys> | Gemini API 호출 |
-| Claude Platform Dashboard | <https://aistudio.google.com/api-keys> | Claude API 호출 |
+| Claude Platform Dashboard | <https://platform.claude.com/dashboard> | Claude API 호출 |
 | OpenAI API Keys | <https://platform.openai.com/api-keys> | OpenAI API 호출 |
 | Ollama API 세팅 | <https://ollama.com/settings/keys> | Ollama API 키 세팅 |
 
