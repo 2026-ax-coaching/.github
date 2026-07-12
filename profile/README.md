@@ -6,9 +6,21 @@
 ---
 
 ## 📌 주요 링크 및 안내
+
+### 프로젝트 관련 링크
+
 | 구분 | 링크 | 비고 |
 | :--- | :--- | :--- |
 | 개인별 코칭 일정잡기 | [바로가기](https://calendar.app.google/izgAe1Yiisj3RvqFA) | 매주 30분 일정잡기 |
+
+### 참고자료
+
+| 구분 | 링크 | 비고 |
+| :--- | :--- | :--- |
+| Google AI Studio | <https://aistudio.google.com/api-keys> | Gemini API 호출 |
+| Claude Platform Dashboard | <https://aistudio.google.com/api-keys> | Claude API 호출 |
+| OpenAI API Keys | <https://platform.openai.com/api-keys> | OpenAI API 호출 |
+| Ollama API 세팅 | <https://ollama.com/settings/keys> | Ollama API 키 세팅 |
 
 ---
 
