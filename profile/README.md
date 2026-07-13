@@ -12,6 +12,7 @@
 | 구분 | 링크 | 비고 |
 | :--- | :--- | :--- |
 | 개인별 코칭 일정잡기 | [바로가기](https://calendar.app.google/izgAe1Yiisj3RvqFA) | 매주 30분 일정잡기 |
+| Awesome AI Stack | [바로가기](https://codecompose7.github.io/awesome-ai-stack/) | AI 스택에 관련된 모음 |
 
 ### 참고자료
 
